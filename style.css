@@ -74,6 +74,59 @@ header::after{
   font-size: 18px;
   color: grey;
 }
+#convinzione{
+  padding: 20px 60px;
+  position: relative;
+  height: 4000px;
+  text-align: center;
+}
+.convinzione1{
+  display: inline-block;
+
+}
+.convinzione2{
+  display: inline-block;
+}
+.convinzione3{
+  display: inline-block;
+}
+.h4_informazioni{
+  padding-top: 25px;
+  font-size: 25px;
+  color: #7fb802;
+  padding-bottom: 24px;
+}
+.hr_informazioni{
+  opacity: .3;
+  border-top: 2px solid;
+  padding-bottom: 24px;
+}
+.p_informazioni{
+  padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
