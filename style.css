@@ -76,10 +76,10 @@ header::after{
 }
 #convinzione{
   padding: 20px 60px;
-  height: 4000px;
   max-width: 1280px;
   margin: 0px auto 0px;
   padding: 24px 48px;
+  height: 1280px;
 }
 .blocco_convinzione{
   max-width: 1280px;
@@ -96,4 +96,62 @@ header::after{
 .p_informazioni{
   padding-top: 25px;
   padding-bottom: 25px;
+}
+#contenitore_dubbi{
+  background-color: #0f335a;
+  width: 100%;
+}
+#dubbi{
+  max-width: 1280px;
+  clear: both;
+  margin: 0px auto 0px;
+  padding: 24px 48px;
+}
+h3{
+  font-size: 1.75rem;
+}
+#scritta2{
+  color: orange;
+}
+.scritta3{
+  font-size: 18px;
+  color: grey;
+}
+footer{
+  background-color: #17406b;
+}
+#box_footer{
+  padding: 60px 8vw 60px 8vw;
+}
+#azienda{
+  display: inline-block;
+  float: left;
+  margin-left: 10%;
+}
+#informazioni{
+  display: inline-block;
+  float: right;
+  margin-right: 10%;
+}
+#h6_footer{
+  color: white;
+  font-size: 16px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+#h4_footer{
+  color: white;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.li_footer{
+  padding-bottom: 10px;
+}
+#li_footer2{
+  padding-bottom: 50px;
+}
+footer::after{
+  content: "";
+  display: table;
+  clear:both;
 }
