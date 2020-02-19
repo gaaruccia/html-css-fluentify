@@ -76,119 +76,24 @@ header::after{
 }
 #convinzione{
   padding: 20px 60px;
-  position: relative;
   height: 4000px;
-  text-align: center;
-}
-.convinzione1{
-  display: inline-block;
-
-}
-.convinzione2{
-  display: inline-block;
-}
-.convinzione3{
-  display: inline-block;
-}
-.h4_informazioni{
-  padding-top: 25px;
-  font-size: 25px;
-  color: #7fb802;
-  padding-bottom: 24px;
-}
-.hr_informazioni{
-  opacity: .3;
-  border-top: 2px solid;
-  padding-bottom: 24px;
-}
-.p_informazioni{
-  padding-bottom: 50px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#contenitore_dubbi{
-  background-color: #0f335a;
-  width: 100%;
-}
-#dubbi{
   max-width: 1280px;
-  clear: both;
   margin: 0px auto 0px;
   padding: 24px 48px;
 }
-h3{
-  font-size: 1.75rem;
-}
-#scritta2{
-  color: orange;
-}
-.scritta3{
-  font-size: 18px;
-  color: grey;
-}
-footer{
-  background-color: #17406b;
-}
-#box_footer{
-  padding: 60px 8vw 60px 8vw;
-}
-#azienda{
-  display: inline-block;
+.blocco_convinzione{
+  max-width: 1280px;
+  margin: 0px auto 0px;
+  padding: 24px 48px;
   float: left;
-  margin-left: 10%;
 }
-#informazioni{
-  display: inline-block;
-  float: right;
-  margin-right: 10%;
+.h4_informazioni{
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-size: 25px;
+  color: #7fb802;
 }
-#h6_footer{
-  color: white;
-  font-size: 16px;
-  padding-bottom: 10px;
-  padding-top: 10px;
-}
-#h4_footer{
-  color: white;
-  padding-bottom: 10px;
-  padding-top: 10px;
-}
-.li_footer{
-  padding-bottom: 10px;
-}
-#li_footer2{
-  padding-bottom: 50px;
-}
-footer::after{
-  content: "";
-  display: table;
-  clear:both;
+.p_informazioni{
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
